@@ -1,2 +1,3 @@
 # EjerciciosTema10
-link:
+link: https://github.com/KSanchezNazate/EjerciciosTema10.git
+
